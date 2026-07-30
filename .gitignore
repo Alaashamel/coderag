@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.coderag_index.pkl
+*.pkl
+.DS_Store
+.vscode/
+.idea/
+.env
